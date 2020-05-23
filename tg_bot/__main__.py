@@ -32,7 +32,7 @@ PM_START_TEXT = """
 HELP_STRINGS = """
 Hello! my name *{}*.
 
-*Main Available Commands* are Below:
+*Main Available Coands* are Below:
 
 All of the following commands  / can  be used...
 
